@@ -1,3 +1,12 @@
+<hr/>
+<p align="center">
+  <a href="/">BERANDA</a>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="/foto">FOTO</a>
+</p>
+<hr/>
+
+
 # Centragro Sektor Utama
 
 Selamat datang di repository `CENTRAGRO`
