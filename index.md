@@ -1,8 +1,4 @@
----
-layout: post
-title: Centragro Sekktor Utama | Beranda
-canonical_url: 'https://centragro.github.io/index'
----
+
 
 <hr/>
 <p align="center">
