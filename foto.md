@@ -1,3 +1,6 @@
+[Beranda](/)
+<hr/>
+
 # Dokumentasi Foto
 
 <p float="center">
