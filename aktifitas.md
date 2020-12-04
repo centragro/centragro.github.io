@@ -8,7 +8,7 @@ header:
   background: 'linear-gradient(135deg, rgb(34, 139, 87), rgb(139, 34, 139))'
 ---
 
-Centragro terbagi menjadi 3 aktifitas utama, yaitu **Riset**, **Komunitas**, dan **Implementasi Bisnis**.
+**CENTRAGRO** memiliki 3 aktifitas utama, yaitu **Riset**, **Komunitas**, dan **Implementasi Bisnis**.
 
 ### Riset
 
