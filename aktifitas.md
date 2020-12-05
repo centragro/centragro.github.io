@@ -18,7 +18,7 @@ Centragro melakukan riset untuk mendapatkan inovasi yang dapat diimplementasikan
 
 Dengan adanya komunitas, Centragro dapat memberikan edukasi dari hasil riset secara langsung kepada masyarakat tentang cara-cara bertani.
 
-Kontak Komunitas binaan:<br>
+Komunitas binaan:<br>
 [- Hidro Team](https://instagram.com/hidroteam_pdg)
 {:.success}
 
@@ -26,6 +26,6 @@ Kontak Komunitas binaan:<br>
 
 Hasil inovasi juga diimplementasikan pada lini bisnis untuk meningkatkan ekonomi.
 
-Kontak Bisnis:<br>
+Bisnis binaan:<br>
 [- Grow Stack Farm](https://instagram.com/gstackfarm)
 {:.success}
