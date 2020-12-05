@@ -24,7 +24,7 @@ Hasil inovasi juga diimplementasikan pada lini bisnis untuk meningkatkan ekonomi
 
 <hr/>
 
-Komunitas & bisnis binaan:<br>
+Komunitas & Bisnis binaan:<br>
 [- Hidro Team](https://instagram.com/hidroteam_pdg) <br/>
 [- Grow Stack Farm](https://instagram.com/gstackfarm)
 {:.success}
