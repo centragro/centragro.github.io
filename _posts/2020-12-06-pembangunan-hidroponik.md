@@ -25,8 +25,8 @@ Pembangunan ini bertujuan sebagai prototype dan pengenalan kepada masyarakat ten
 
 ## Produksi
 
-Penyemaian membutuhkan sekitar 7-14 Hari, saat itu `Hidro Team Pandeglang`{:.success} menanam Pakchoy dan Sawi karena tanaman ini paling umum di jumpai
-di daerah sini serta sebagai pembuktian dan edukasi ke masyarakat bahwa hanya dengan air dan campuran nutrisi, tanaman juga dapat tumbuh dengan baik.
+Penyemaian membutuhkan sekitar 7-14 Hari, saat itu `Hidro Team Pandeglang`{:.success} menanam Pakchoy dan Sawi. Karena tanaman ini paling umum di jumpai
+di daerah sini serta sebagai pembuktian dan edukasi ke masyarakat bahwa hanya dengan air + campuran nutrisi, tanaman juga dapat tumbuh dengan baik.
 pada tahap penyemaian, tanaman hanya di berikan air saja tanpa nutrisi.
 
 Setelah penyemaian dan tanaman memiliki daun sejati (dapat di lihat dengan tumbuhnya daun ke 3 dan ke 4 pada tanaman). 
@@ -43,7 +43,10 @@ Proses produksi membutuhkan waktu sekitar 20-30 hari atau kira-kira 1 bulan.
 ![](/media/foto/WhatsApp-Image-2020-11-13-at-15.52.10.jpeg)
 ![](/media/foto/WhatsApp-Image-2020-11-18-at-16.59.43.jpeg)
 
-## Pemesanan
+## Pemasaran
+
+`Hidro Team Pandeglang`{:.success} memasarkan sayuran ke warga sekitar. 
+Pada awal pemanenan, sebagian sayur dibagikan secara gratis untuk testimoni dan promosi bahwa sayuran hidroponik bisa dikonsumsi dengan baik.
 
 Untuk pemesanan sayur hidroponik, bisa hubungi `Hidro Team Pandeglang`{:.success} di instagram [@hidroteam_pdg](https://instagram.com/hidroteam_pdg)
 {:.success}
