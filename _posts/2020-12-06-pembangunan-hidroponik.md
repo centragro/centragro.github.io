@@ -1,20 +1,11 @@
 ---
-header:
-  theme: dark
-  background: 'linear-gradient(135deg, rgb(34, 139, 87), rgb(139, 34, 139))'
 article_header:
-  type: overlay
-  theme: dark
-  background_color: '#203028'
   background_image:
-    gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
     src: /media/foto/WhatsApp%20Image%202020-10-27%20at%2015.04.59.jpeg
 title: Pembangunan Hidroponik dan Panen Perdana
 tags: hidroponik
 author: author
 ---
-
-## Pembangunan
 
 Bulan **Oktober 2020** `Hidro Team Pandeglang`{:.success} membangun prototype hidroponik di daerah Kadu Pandak, Pandeglang dengan luas lahan **2x8 meter**. 
 Pembangunan ini bertujuan sebagai prototype dan pengenalan kepada masyarakat tentang sayuran hidroponik.

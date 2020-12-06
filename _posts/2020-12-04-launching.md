@@ -1,7 +1,8 @@
 ---
-header:
-  theme: dark
-  background: 'linear-gradient(135deg, rgb(34, 139, 87), rgb(139, 34, 139))'
+show_title: true
+article_header: 
+    type: cover
+    show_cover: false
 title: Website Centragro Launching!
 tags: website blog
 author: author
