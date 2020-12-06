@@ -25,9 +25,9 @@ Pembangunan ini bertujuan sebagai prototype dan pengenalan kepada masyarakat ten
 
 ## Produksi
 
-Penyemaian membutuhkan sekitar 7-14 Hari, saat itu `Hidro Team Pandeglang`{:.success} menanam Pakchoy dan Sawi karena menurut `Hidro Team Pandeglang`{:.success} tanaman ini paling umum di jumpai
-di daerah sini dan sebagai pembuktian dan edukasi ke masyarakat bahwa hanya dengan air dan campuran nutrisi, tanaman juga dapat tumbuh dengan baik.
-pada proses penyemaian, tanaman hanya di berikan air tanpa nutrisi.
+Penyemaian membutuhkan sekitar 7-14 Hari, saat itu `Hidro Team Pandeglang`{:.success} menanam Pakchoy dan Sawi karena tanaman ini paling umum di jumpai
+di daerah sini serta sebagai pembuktian dan edukasi ke masyarakat bahwa hanya dengan air dan campuran nutrisi, tanaman juga dapat tumbuh dengan baik.
+pada tahap penyemaian, tanaman hanya di berikan air saja tanpa nutrisi.
 
 Setelah penyemaian dan tanaman memiliki daun sejati (dapat di lihat dengan tumbuhnya daun ke 3 dan ke 4 pada tanaman). 
 Tanaman kemudian dipindahkan ke paralon untuk dilanjutkan ke tahap produksi. Pada tahap ini, tanaman diberikan air nutrisi.
