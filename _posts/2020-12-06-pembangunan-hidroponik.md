@@ -35,7 +35,7 @@ Tanaman kemudian dipindahkan ke paralon untuk dilanjutkan ke tahap produksi. Pad
 ![](/media/foto/WhatsApp-Image-2020-11-08-at-08.48.36.jpeg)
 ![](/media/foto/WhatsApp-Image-2020-11-08-at-08.48.35.jpeg)
 
-## Siap Panen
+## Panen
 
 Proses produksi membutuhkan waktu sekitar 20-30 hari atau kira-kira 1 bulan. 
 `Hidro Team Pandeglang`{:.success} menanam pada akhir Oktober dan panen pada akhir November - awal Desember. Untuk saat ini `Hidro Team Pandeglang`{:.success} panen sebulan sekali.
