@@ -4,6 +4,7 @@ header:
   background: 'linear-gradient(135deg, rgb(34, 139, 87), rgb(139, 34, 139))'
 title: Website Centragro Launching!
 tags: website blog
+author: author
 ---
 
 Haloo!

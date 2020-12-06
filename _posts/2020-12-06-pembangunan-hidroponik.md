@@ -1,5 +1,4 @@
 ---
-# layout: article
 header:
   theme: dark
   background: 'linear-gradient(135deg, rgb(34, 139, 87), rgb(139, 34, 139))'
@@ -12,6 +11,7 @@ article_header:
     src: /media/foto/WhatsApp%20Image%202020-10-27%20at%2015.04.59.jpeg
 title: Pembangunan Hidroponik
 tags: hidroponik
+author: author
 ---
 
 ## Pembangunan
@@ -45,7 +45,7 @@ Proses produksi membutuhkan waktu sekitar 20-30 hari atau kira-kira 1 bulan.
 
 ## Pemasaran
 
-`Hidro Team Pandeglang`{:.success} memasarkan sayuran ke warga sekitar. 
+Saat ini `Hidro Team Pandeglang`{:.success} memasarkan sayuran ke warga sekitar. 
 Pada awal pemanenan, sebagian sayur dibagikan secara gratis untuk testimoni dan promosi bahwa sayuran hidroponik bisa dikonsumsi dengan baik.
 
 Untuk pemesanan sayur hidroponik, bisa hubungi `Hidro Team Pandeglang`{:.success} di instagram [@hidroteam_pdg](https://instagram.com/hidroteam_pdg)
