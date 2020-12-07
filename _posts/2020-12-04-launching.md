@@ -1,4 +1,5 @@
 ---
+layout: article
 show_title: true
 article_header: 
     type: cover
@@ -6,7 +7,7 @@ article_header:
 title: Website Centragro Launching!
 tags: website blog
 author: author
-comments: true
+# comments: true
 ---
 
 Haloo!
