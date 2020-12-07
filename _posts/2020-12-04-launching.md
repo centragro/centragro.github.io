@@ -6,7 +6,7 @@ article_header:
 title: Website Centragro Launching!
 tags: website blog
 author: author
-comment: true
+comments: true
 ---
 
 Haloo!
