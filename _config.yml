@@ -215,6 +215,7 @@ defaults:
       show_subscribe: true
       pageview: true
       ### THIS IS CUSTOM SETTINGS FOR POSTING PAGES ###
+      comments: true
       comment: true
       header:
         theme: dark
