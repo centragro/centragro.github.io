@@ -15,5 +15,5 @@ Akhirnya website `CENTRAGRO.ORG`{:.success} Launching! Semoga website ini bisa m
 <!--more-->
 Terimakasih telah berkunjung!
 
-Jika ada kritik dan saran, silahkan hubungi kami di [sini!](https://wa.me/6281218137592)
+Jika ada kritik dan saran, silahkan hubungi kami di [sini!](mailto:info@centragro.org)
 {:.success}
