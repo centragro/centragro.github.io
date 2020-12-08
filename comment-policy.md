@@ -9,4 +9,8 @@ tags: comment policy
 author: author
 ---
 
-We welcome relevant and respectful comments. Off-topic comments may be removed.
+We welcome relevant and respectful comments.
+{:.success}
+
+Off-topic comments may be removed.
+{:.warning}
