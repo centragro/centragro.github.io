@@ -151,9 +151,9 @@ pageview:
 
   ## Leancloud
   leancloud:
-    app_id    : 0UHnUqgCmcfFthw96GvN4Jix-MdYXbMMI # LeanCloud App id
-    app_key   : fjvIFiQG9DVs1WzmxCEDsBNI # LeanCloud App key
-    app_class : TeXtDemo # LeanCloud App class
+    app_id    : '0UHnUqgCmcfFthw96GvN4Jix-MdYXbMMI' # LeanCloud App id
+    app_key   : 'fjvIFiQG9DVs1WzmxCEDsBNI' # LeanCloud App key
+    app_class : 'TeXtDemo' # LeanCloud App class
 
 
 ## => Search
