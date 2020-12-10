@@ -1,7 +1,7 @@
 ---
 show_title: true
 article_header:
-  type: overly
+  type: overlay
   show_cover: true
   background_image:
     src: /media/foto/WhatsApp%20Image%202020-10-27%20at%2015.04.59.jpeg
