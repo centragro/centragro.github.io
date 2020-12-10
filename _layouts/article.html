@@ -18,10 +18,7 @@ type: article
   {%- endif -%}
 
 
-  {%- if page.key and
-    _LEANCLOUD_APP_ID and
-    _LEANCLOUD_APP_KEY and
-    _LEANCLOUD_APP_CLASS -%}
+  {%- if pageviews -%}
   
     <script>
       {%- include pageview-providers/leancloud/leancloud.js -%}
