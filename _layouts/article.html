@@ -17,6 +17,32 @@ type: article
     <section class="article__sharing d-print-none">{%- include sharing.html -%}</section>
   {%- endif -%}
 
+
+  {%- if page.key and
+    _LEANCLOUD_APP_ID and
+    _LEANCLOUD_APP_KEY and
+    _LEANCLOUD_APP_CLASS -%}
+  
+    <script>
+      {%- include pageview-providers/leancloud/leancloud.js -%}
+    </script>
+    <script>
+      window.Lazyload.js(['{{ _sources.jquery }}', '{{ _sources.leancloud_js_sdk}}'], function() {
+        var pageview = window.pageview(AV, {
+          appId:    '{{ _LEANCLOUD_APP_ID }}',
+          appKey:   '{{ _LEANCLOUD_APP_KEY }}',
+          appClass: '{{ _LEANCLOUD_APP_CLASS }}'
+        });
+        var key =   '{{ page.key }}';
+        var title = {{ page.title | jsonify }};
+        pageview.increase(key, title, function(view) {
+          $("[data-page-key='{{ page.key }}']").text(view);
+        });
+      });
+    </script>
+  
+  {%- endif -%}
+
   {% if page.comments %}
   <div id="disqus_thread"></div>
   <script>
