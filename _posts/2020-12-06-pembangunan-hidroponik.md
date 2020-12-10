@@ -5,12 +5,11 @@ article_header:
   show_cover: true
   background_image:
     src: /media/foto/WhatsApp%20Image%202020-10-27%20at%2015.04.59.jpeg
+date: 20201206
 title: Pembangunan Hidroponik dan Panen Perdana
 tags: hidroponik
 author: author
 ---
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fcentragro.org%2F2020%2F12%2F06%2Fpembangunan-hidroponik.html&count_bg=%2379C83D&title_bg=%23555555&icon=jekyll.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)
 
 Bulan **Oktober 2020** `Hidro Team Pandeglang`{:.success} membangun prototype hidroponik di daerah Kadu Pandak, Pandeglang dengan luas lahan **2x8 meter**. 
 Pembangunan ini bertujuan sebagai prototype dan pengenalan kepada masyarakat tentang sayuran hidroponik.
