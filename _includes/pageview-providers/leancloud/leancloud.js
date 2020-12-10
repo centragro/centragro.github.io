@@ -13,7 +13,7 @@
     appKey = options.appKey;
     appClass = options.appClass;
     AV.init({
-      serverURLs: 'https://app-router.leancloud.cn', //'https://avoscloud.com',
+      serverURLs: 'https://lc-gluttony.s3.amazonaws.com', //'https://avoscloud.com',
       appId: appId,
       appKey: appKey
     });
