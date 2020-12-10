@@ -5,7 +5,7 @@ article_header:
   show_cover: false
   background_image:
     src:   
-date: 20201204
+tanggal: 20201204
 title: Website Centragro Launching!
 tags: website blog
 author: author
