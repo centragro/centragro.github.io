@@ -1,13 +1,13 @@
 ---
-# layout: article
+show_title: true
 article_header:
+  type: cover
+  show_cover: true
   background_image:
     src: /media/foto/WhatsApp%20Image%202020-10-27%20at%2015.04.59.jpeg
-key: 20201206
 title: Pembangunan Hidroponik dan Panen Perdana
 tags: hidroponik
 author: author
-pageviews: true
 ---
 
 Bulan **Oktober 2020** `Hidro Team Pandeglang`{:.success} membangun prototype hidroponik di daerah Kadu Pandak, Pandeglang dengan luas lahan **2x8 meter**. 

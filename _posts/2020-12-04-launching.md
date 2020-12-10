@@ -1,14 +1,13 @@
 ---
-# layout: article
 show_title: true
 article_header: 
-    type: cover
-    show_cover: false
-key: 20201204
+  type: cover
+  show_cover: false
+  background_image:
+    src:   
 title: Website Centragro Launching!
 tags: website blog
 author: author
-pageviews: true
 ---
 
 Haloo!
