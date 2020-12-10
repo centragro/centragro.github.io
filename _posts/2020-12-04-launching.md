@@ -1,5 +1,5 @@
 ---
-layout: article
+# layout: article
 show_title: true
 article_header: 
     type: cover
