@@ -11,15 +11,15 @@ type: article
 <div class="layout--article">
   {%- include article/top/custom.html -%}
 
+  <div>
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://centragro.org/{{ page.date }}{{ page.title }}&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false"/> 
+  </div>
+
   <div class="article__content" itemprop="articleBody">{{ content }}</div>
 
   {%- if _sharing -%}
     <section class="article__sharing d-print-none">{%- include sharing.html -%}</section>
   {%- endif -%}
-
-  <div>
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://centragro.org/{{ page.date }}{{ page.title }}&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false"/> 
-  </div>
 
   {% if page.comments %}
   <div id="disqus_thread"></div>
